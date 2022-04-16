@@ -1,4 +1,4 @@
-# Jmicron enthernet kext
+# Jmicron ethernet kext
 
 ## About this kext
 	* Build from <a href="https://github.com/ghostec/jmc250">Jmc250</a>
